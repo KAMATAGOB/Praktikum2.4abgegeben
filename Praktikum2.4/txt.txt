@@ -1,0 +1,4 @@
+100,4,7,10000,Parallel
+100,4,7,1000,Parallel
+1000,4,7,21132,Parallel
+100,40,95547,Parallel

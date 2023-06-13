@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Praktikum2.4", "Praktikum2.4\Praktikum2.4.csproj", "{CDC7D543-06B9-482D-A48C-BDDAD7589A85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{18AC878A-295C-4D65-9B84-E8CA4B47BD58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDC7D543-06B9-482D-A48C-BDDAD7589A85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDC7D543-06B9-482D-A48C-BDDAD7589A85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDC7D543-06B9-482D-A48C-BDDAD7589A85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDC7D543-06B9-482D-A48C-BDDAD7589A85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18AC878A-295C-4D65-9B84-E8CA4B47BD58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18AC878A-295C-4D65-9B84-E8CA4B47BD58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18AC878A-295C-4D65-9B84-E8CA4B47BD58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18AC878A-295C-4D65-9B84-E8CA4B47BD58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {790194CC-F679-48B1-BF32-8A18D0B0E98A}
+	EndGlobalSection
+EndGlobal
